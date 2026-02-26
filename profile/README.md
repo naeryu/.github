@@ -14,4 +14,4 @@ Not yet another event aggregator app. This is an app that personally recommend y
 
 ## Architecture Overview
 
-![Architecture](architecture.svg)
+![Architecture](naeru-architecture.svg)
